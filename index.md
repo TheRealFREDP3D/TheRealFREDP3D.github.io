@@ -1,5 +1,8 @@
-# TheRealFREDP3D.github.io
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+layout: home
 ---
 
 ![TheRealFREDP3D - Banner](images/github-front-banner.png)
@@ -32,3 +35,4 @@ I thrive on hands-on learning, embracing a cycle of reading, trying, failing, ta
 If you'd like to connect or follow my journey, you can find me on X [@TheRealFREDP3D](https://x.com/TheRealFredP3D), where I share my latest projects and insights into the world of technology and cybersecurity.
 
 I'm always eager to learn and collaborate, so feel free to reach out!
+---
