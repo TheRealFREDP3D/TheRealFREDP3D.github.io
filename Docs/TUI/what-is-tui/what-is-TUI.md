@@ -1,3 +1,7 @@
+layout: page
+title: "What is a TUI?"
+permalink: /Docs/TUI/what-is-yui
+
 # What is a TUI?
 
 ![mc tool TUI](mc-tui.JPG)
