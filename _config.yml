@@ -21,9 +21,7 @@
 title: TheRealFREDP3D Website - Learning in Public & Projects
 email: fredp3d@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my digital journey! This site chronicles my transition into IT, a field I've been passionate about since childhood. Here, I document my learning process and showcase my projects as I work towards changing careers. Join me as I explore, create, and grow in the world of technology.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://theRealFREDP3D.github.io" # the base hostname & protocol for your site, e.g. 
 twitter_username: TheRealFredP3D
