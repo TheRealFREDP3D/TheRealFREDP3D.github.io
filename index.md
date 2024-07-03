@@ -9,7 +9,7 @@
 > Hi!, Here I will compile my notes, projects and other stuff.
 > I will also be uploading some of my projects to this website.
 
-### $ whoami 
+### $ whoami
 
 I'm a 39-year-old self-taught IT and cybersecurity enthusiast. I'm passionate about technology and its potential to transform the world. I'm constantly seeking new challenges and opportunities to learn and grow.
 
@@ -27,10 +27,8 @@ I thrive on hands-on learning, embracing a cycle of reading, trying, failing, ta
 - Currently, I'm focused on *Python programming*, *Open Sources LLMs models(Ollama)* and *Machine Learning*.
 - I'm particularly excited about exploring the intersection of *AI* and *cybersecurity* as a potential career path.
 
-
 ### Connect with me
 
-If you'd like to connect or follow my journey, you can find me on Twitter @TheRealFREDP3D, where I share my latest projects and insights into the world of technology and cybersecurity.
+If you'd like to connect or follow my journey, you can find me on X [@TheRealFREDP3D](https://x.com/TheRealFredP3D), where I share my latest projects and insights into the world of technology and cybersecurity.
 
 I'm always eager to learn and collaborate, so feel free to reach out!
-
