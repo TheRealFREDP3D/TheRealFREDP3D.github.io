@@ -53,6 +53,27 @@
     {
       "title": "posts",
       "path": "[[workspace]]/_posts"
+    },
+    {
+      "path": "[[workspace]]/_posts"
+    },
+    {
+      "path": "[[workspace]]/assets/css"
+    },
+    {
+      "path": "[[workspace]]/Contact"
+    },
+    {
+      "path": "[[workspace]]/Docs"
+    },
+    {
+      "path": "[[workspace]]/images"
+    },
+    {
+      "path": "[[workspace]]/Learning-Journey"
+    },
+    {
+      "path": "[[workspace]]/Projects"
     }
   ],
   "frontMatter.git.enabled": true
